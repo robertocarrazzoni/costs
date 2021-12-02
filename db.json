@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "name": "Meu projeto teste ",
+      "budget": "1000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 100,
+      "services": [
+        {
+          "name": "teste de serviço",
+          "cost": "100",
+          "description": "Testando formulário de serviço",
+          "id": "c332134f-b013-4dfe-ba64-3c0085d87717"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
